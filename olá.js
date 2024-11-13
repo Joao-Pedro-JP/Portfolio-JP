@@ -1,1 +1,1 @@
-conloge(""Olá JPF)
+const pair = "Extraordinaire";
